@@ -1,4 +1,3 @@
-
 Nicholas A. Del Grosso 
 
 Felix Thoma 
@@ -8,7 +7,6 @@ Vera Miyase Yilmaz
 Kilian Schumacher
 
 Vera Miyase Yilmaz
-
 
 Rodaria Roussou
 
